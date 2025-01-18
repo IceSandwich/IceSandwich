@@ -12,6 +12,17 @@ The programming languages i'm using:
 I'm learning to draw cute stuffs, and... learning music.
 I would like to make an animation in the future.
 
+The softwares i'm using:
+- Visual Studio (c++, c# dev)
+- VSCode (golang, python, ts)
+- Android Studio
+- Krita (drawing, animation)
+- Blender (modeling)
+- Godot/Unity (game)
+- LMMS (music)
+
+So, happy 2025~friends.
+
 <!--
 **IceSandwich/IceSandwich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
