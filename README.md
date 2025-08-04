@@ -9,8 +9,8 @@ The programming languages i'm using:
 5. C# (to dev game in godot)
 6. Java (mostly in android dev, just deploy nn models in mobile devices with native c++)
 
-I'm learning to draw cute stuffs, and... learning music.
-I would like to make an animation in the future.
+I'm learning to draw, and... learning music.
+I plan to make an animation in the future.
 
 The softwares i'm using:
 - Visual Studio (c++, c# dev)
